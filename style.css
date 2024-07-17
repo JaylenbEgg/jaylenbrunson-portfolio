@@ -2,3 +2,11 @@ html {
   height: 100%;
   width: 100%;
 }
+h1{color: #01064b } 
+body, p{color: #f09c00} 
+.navbar{background-color: #5a5858} 
+.about{background-color: #5a5858} 
+.about:hover{background-color: red}
+
+.SKILL{background-color: #5a5858} 
+body{background-color: #5f19e1} 
